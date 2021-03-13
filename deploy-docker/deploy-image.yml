@@ -1,6 +1,7 @@
 ---
 - name: Pull docker image of calculator app
   hosts: local
+  connection: local
   tasks:
     - name: Pull junit devops image
       docker_image:
