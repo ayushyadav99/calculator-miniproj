@@ -1,0 +1,8 @@
+---
+- name: Pull docker image of calculator app
+  hosts: all
+  tasks:
+    - name: Pull junit devops image
+      docker_image:
+        name: ayushyadav99/calculator-miniproj
+        source: pull
