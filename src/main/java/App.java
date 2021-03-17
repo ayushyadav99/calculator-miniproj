@@ -22,6 +22,7 @@ public class App {
                     break;
                 case 2:
                     run_flag = 0;
+                    break;
                 default:
                     System.out.println("Invalid Command: Please Try Again");
             }
