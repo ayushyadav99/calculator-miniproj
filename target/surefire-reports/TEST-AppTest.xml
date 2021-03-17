@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="AppTest" time="0.005" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="AppTest" time="2.312" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib"/>
     <property name="java.vm.version" value="25.282-b08"/>
     <property name="gopherProxySet" value="false"/>
     <property name="java.vm.vendor" value="AdoptOpenJDK"/>
-    <property name="maven.multiModuleProjectDirectory" value="/Users/ayushyadav/Work/Semesters/Semester_8/SPE/calculator-miniproj"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/ayushyadav/Work/Semesters/Semester_8/spe/calculator-miniproj"/>
     <property name="java.vendor.url" value="https://adoptopenjdk.net/"/>
     <property name="path.separator" value=":"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -64,5 +64,5 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="AppTest" name="truePositiveSqrt" time="0.005"/>
+  <testcase classname="AppTest" name="truePositiveSqrt" time="2.312"/>
 </testsuite>
